@@ -42,7 +42,7 @@ Atualmente, estou ampliando meus conhecimentos em desenvolvimento Full Stack, bu
 ## 🤝 Vamos nos conectar
 
 - [Meu GitHub](https://github.com/luizfsilva1705)
-- LinkedIn: adicionar link do perfil
+- LinkedIn: [adicionar link do perfil](https://www.linkedin.com/in/luiz-fernando-4923981bb/)
 
 ---
 
